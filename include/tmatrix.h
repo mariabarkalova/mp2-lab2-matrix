@@ -4,6 +4,8 @@
 //
 //
 
+//комментарий 
+
 #ifndef __TDynamicMatrix_H__
 #define __TDynamicMatrix_H__
 
